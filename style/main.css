@@ -6,4 +6,6 @@ body {
 
 #content {
   text-align: center;
+  color: rgb(215, 91, 24);
+  text-decoration: overline;
 }
