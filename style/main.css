@@ -1,11 +1,10 @@
 body {
   background: rgba(132, 84, 153, 0.65);
-  font-size: 10em;
+  font-size: 2em;
   font-family: fantasy;
 }
 
 #content {
   text-align: center;
-  color: rgb(215, 91, 24);
-  text-decoration: overline;
+  color: rgb(74, 23, 157);
 }
